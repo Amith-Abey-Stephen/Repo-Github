@@ -45,15 +45,20 @@ body{
 
  
 .conatiner{
-    background-color: rgba(222, 204, 204);/* #8f8a8a */
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    background-color: #313E50;
     text-align: center;
     align-items: center;
     height: 100%;
-    width: 70%;
-    margin: 30px 20px 20px;/* top right bottom left*/
+    width: 77%;
+    /* margin: 30px 20px 20px;top right bottom left */
     padding: 20px 20px 20px 20px;
     border-radius: 18px;
-    display: flex;
+
 }
 
 
