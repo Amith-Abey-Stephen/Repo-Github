@@ -5,5 +5,5 @@ body{
     background-color: black;
     text-decoration: solid white;
     max-width: 100%;
-    max-width: 50%;
+    min-width: 50%;
 }
