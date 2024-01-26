@@ -19,26 +19,40 @@ body{
     color: #666;
 }
 
-
-
-.container{
-    background-color: rgba()#8f8a8a;
+ 
+.conatiner{
+    background-color: rgba(222, 204, 204);/* #8f8a8a */
+    text-align: center;
+    align-items: center;
+    height: 90%;
+    width: 100%;
+    margin: 30px 20px 20px;/* top right bottom left*/
+    padding: 20px 20px 20px 20px;
+    border-radius: 18px;
+    display: flex;
 }
+
+
 .card1{
+    display: ;
     height: 100px;
     width: 85px;
     background-color: brown;
     color: aliceblue;
+    
 }
 
 
 .card1:hover{
     box-shadow:  10px 5px 0px rgba(230, 5, 110, 0.5) inset;
 }
-/* 
+
 button{
+    background-color: rgb(44, 184, 240);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: outset;
+    border-color: rgb(0, 0, 0); 
     height: 30px;
-    width: 45px;
-    background-color: rgb(36, 202, 86);
-    color: rgb(2, 69, 128);   
-} */
+    width: 90px;
+}
