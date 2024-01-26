@@ -1,10 +1,9 @@
 body{
-    background-color: rgb(13, 12, 44);
-    
+    background-color: rgb(33,33,33);
 }
 .card{
     
-    background-color: rgb(29, 29, 34);
+    background-color: rgb(42, 42, 240);
     text-decoration: solid white;
     
     max-height: 100%;
@@ -22,5 +21,5 @@ body{
 }
 
 card1:hover{
-    box-shadow:  10px 5px 0px rgba(255, 5, 5, 0.5) inset;
+    box-shadow:  10px 5px 0px rgba(0, 0, 0, 0.5) inset;
 }
