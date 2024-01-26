@@ -35,7 +35,7 @@ body{
 .img2 {
     height: 250px;
     width: 250px;
-    border-radius: 110%;
+    border-radius: 10%;
     margin-left: 4%;
     margin-top: -10%;
 }
