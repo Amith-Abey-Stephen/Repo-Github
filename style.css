@@ -3,19 +3,17 @@ body{
 }
 
 .card {
-    border: 1px solid #ccc;
+    width: 100%;
+    height: auto;
     border-radius: 8px;
-    padding: 16px;
-    margin: 16px;
-    width: 70%;
-    height: 25em;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
 }
 
 .card .img1 {
-    width: auto;
-    height: 25em;
-    border-radius: 4px;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
 }
 .card .img2 {
     top: 0;
