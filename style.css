@@ -1,3 +1,7 @@
 body{
-    background-color: aqua;
+    background-color: black;
+}
+.card{
+    max-width: 7em;
+    max-width: 5em;
 }
