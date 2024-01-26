@@ -1,5 +1,5 @@
 body{     
-    background: linear-gradient(to top, rgb(17, 34, 71) 0%, rgb(14, 24, 51));
+   background: linear-gradient(to top, rgb(17, 34, 71) 0%, rgb(14, 24, 51));
 }
 
 .hero {
@@ -23,7 +23,7 @@ body{
     border-radius: 8px 8px 0 0;
 }
 .img2 {
-    border-radius: 100%;
+    border-radius: 50%;
     width: 20%;
     margin-left: 4%;
     margin-top: -10%;
