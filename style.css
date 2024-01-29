@@ -53,7 +53,13 @@ body{
     margin-bottom: 4px;
 }
 
- 
+.namee{
+    text-decoration: none;
+}
+
+.namee:hover{
+    transform: translate3d(4px, -3px, 0);
+}
 .conatiner{
     height: 100%;
     width: 80%;
