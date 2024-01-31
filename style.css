@@ -55,10 +55,12 @@ body{
 
 .namee{
     text-decoration: none;
+    color: aliceblue;
 }
 
 .namee:hover{
     transform: translate3d(4px, -3px, 0);
+    color: rgb(45, 130, 204);
 }
 .conatiner{
     height: 100%;
