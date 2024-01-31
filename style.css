@@ -86,6 +86,25 @@ body{
     transform: translate3d(4px, -3px, 0);
 }
 
+.box2{
+    margin:5px;
+    height: auto;
+    width: 150px; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman'; 
+    background-color: rgb(11, 55, 116);
+    text-align: center;
+    padding: 0px 16px 16px 16px;
+    border-radius: 15px;
+    border: 1px solid #000000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.315);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    flex-grow: 1;
+}
+.box2:hover{
+    box-shadow: 0 8px 12px rgba(96, 128, 208, 0.966);
+    transform: translate3d(4px, -3px, 0);
+}
+
 button{
     background-color: rgb(44, 184, 240);
     border: 1px solid #000000;
